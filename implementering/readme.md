@@ -65,9 +65,75 @@ data = respons.json()
 
 - Håndtering av feil med `try` og `except`
 
+```python
+print("Velkommen til Valutakalkulatoren")
+
+# hvis kodeblokken under try gir en feilmelding, kjøres koden under except
+try:
+  euro = float(input("€: "))
+  dollar = euro * 1.07
+  print(f"{euro}€ = ${dollar}")
+except:
+  print("FEIL: Ukjent input")
+```
+
+```python
+# tips: en kombinasjon av en while-løkke og try-except 
+#       kan brukes for å få riktig brukerinput
+while True:
+    try:
+        alder = int(input("din alder: "))
+        break
+    except:
+        print("alder må være et heltall, prøv igjen")
+
+fødselsår = 2022 - alder
+print(f"du er født i {fødselsår}")
+```
+
 #### Logiske feil
 
-- Testing med `assert`
+- [Testing med `assert`](https://www.w3schools.com/python/ref_keyword_assert.asp)
+
+```python
+def areal(h,b):
+  return h*b
+
+def omkrets(h,b):
+  return h+h+b
+
+# hvis testen er True, fortsetter koden
+assert areal(2,3) == 6
+
+# hvis testen er False, kommer en AssertionError feilmelding:
+assert omkrets(2,3) == 10
+```
+
+
+- [Enhetstesting med Unittest-biblioteket](https://docs.python.org/3/library/unittest.html)
+
+```python
+import unittest
+
+class TestStringMethods(unittest.TestCase):
+
+    def test_upper(self):
+        self.assertEqual('foo'.upper(), 'FOO')
+
+    def test_isupper(self):
+        self.assertTrue('FOO'.isupper())
+        self.assertFalse('Foo'.isupper())
+
+    def test_split(self):
+        s = 'hello world'
+        self.assertEqual(s.split(), ['hello', 'world'])
+        # check that s.split fails when the separator is not a string
+        with self.assertRaises(TypeError):
+            s.split(2)
+
+if __name__ == '__main__':
+    unittest.main()
+```
 
 
 ## Vurderingskriterier
