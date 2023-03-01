@@ -18,11 +18,11 @@ Et repository for IT2 på Sandvika VGS.
   - etiske dilemma og konsekvenser av bruk av IT
   - standarder for lagring, utveksling og sikring av data
   - brukervennlighet i informasjonssystemer
-- Problemløsning
+- [Problemløsning](problemlosning/readme.md)
   - metoder, teknikker og verktøy
   - alternative løsninger
   - objektorienterte programmer med klasser, arv og objekter
-- Modellering og representasjon
+- [Modellering og representasjon](modellering-og-representasjon/readme.md)
   - objektorienterte modeller som beskriver programstruktur
   - representasjon av programflyt med kontrollstrukturer
   - brukervennlighet i programmer
