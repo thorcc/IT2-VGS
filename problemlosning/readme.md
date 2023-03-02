@@ -7,6 +7,7 @@
 - Systemutvikling
   - Smidig metodikk
   - Fossefallsmetoden
+  - Testdrevet utvikling
   - [Aunivers: 2B Systemutvikling - Systemutviklingsmetoder](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2b-systemutvikling/systemutviklingsmetoder)
 
 ### Alternative løsninger
