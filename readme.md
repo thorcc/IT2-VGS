@@ -33,6 +33,28 @@ Et repository for IT2 på Sandvika VGS.
   - vern mot kjøretidsfeil og logiske feil i programmer
 
 
+## Plan
+
+| Uke | Dato   | Emne som gjennomgås på tavle                                | Anbefalt prosjekt              |
+| --- | ------ | ----------------------------------------------------------- | ------------------------------ |
+| 9   | 02.mar | vern mot kjøretidsfeil og logiske feil i programmer         | Smidig webapp                  |
+| 10  | 09.mar | innhente, analysere og presentere data                      | Smidig webapp                  |
+| 11  | 16.mar | representasjon av programflyt og objektorienterte modeller  | Spill med Pygame               |
+| 12  | 23.mar | gjenbrukbar kode og objektorienterte modeller og programmer | Spill med Pygame               |
+| 13  | 30.mar | brukervennlighet i programmer/informasjonssystemer          | Spill med Pygame/Smidig webapp |
+| 14  | 06.apr | standarder for lagring, utveksling og sikring av data       | Smidig webapp                  |
+| 15  | 13.apr | påske                                                       |                                |
+| 16  | 20.apr | etiske dilemma og konsekvenser av bruk av IT                | En tekst?                      |
+| 17  | 27.apr | tentamenstrening                                            |                                |
+| 18  | 04.mai | tentamen                                                    |                                |
+| 19  | 11.mai | eksamenstrening                                             |                                |
+| 20  | 18.mai | eksamenstrening                                             |                                |
+| 21  | 25.mai | Kristi himmelfart                                           |                                |
+| 22  | 01.jun | Arbeid med mappe                                            |                                |
+| 23  | 08.jun | mappeinnlevering                                            |                                |
+| 24  | 15.jun | IT-avslutning                                               |                                |
+| 25  | 22.jun | Avslutning VG3                                              |                                |
+
 ## Vurderingskriterier
 
 | Kategori                          | Lav kompetanse (2)                                                                                                               | God kompetanse (4)                                                                                                                 | Utmerket kompetanse (6)                                                                                               |
