@@ -30,7 +30,7 @@ Et repository for IT2 på Sandvika VGS.
   - løsninger med programmering
   - gjenbrukbar kode
   - innhente, analysere og presentere data
-  - vern mot kjøretidsfeil og logiske feil i programmer
+  - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
 
 
 ## Plan
