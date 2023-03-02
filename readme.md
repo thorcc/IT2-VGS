@@ -50,10 +50,10 @@ Et repository for IT2 på Sandvika VGS.
 | 19  | 11.mai | eksamenstrening                                             |                                |
 | 20  | 18.mai | eksamenstrening                                             |                                |
 | 21  | 25.mai | Kristi himmelfart                                           |                                |
-| 22  | 01.jun | Arbeid med mappe                                            |                                |
+| 22  | 01.jun | arbeid med mappe                                            |                                |
 | 23  | 08.jun | mappeinnlevering                                            |                                |
 | 24  | 15.jun | IT-avslutning                                               |                                |
-| 25  | 22.jun | Avslutning VG3                                              |                                |
+| 25  | 22.jun | avslutning VG3                                              |                                |
 
 ## Vurderingskriterier
 
