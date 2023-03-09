@@ -22,6 +22,43 @@
 
 ### Innhente, analysere og presentere data
 
+**Gjøremål:**
+
+1. Les [Aunivers: 3A Tegning av grafer](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3a-tegning-av-grafer?nof=1) og gjør oppgave 1 - 16 (alle)
+2. Lag en notat om hvordan plotting fungerer i Python, ta med minst to kodeeksempler. Notatet skal legges i IT2-mappen.
+   - Tips: Lag tabeller i markdown med [https://www.tablesgenerator.com/markdown_tables](https://www.tablesgenerator.com/markdown_tables) 
+3. Les [Aunivers: 3B Reelle datasett](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3b-reelle-datasett) og gjør oppgave 1 - 13 (alle)
+4. Lag en notat om hvordan innhenting av data fungerer i Python, ta med minst to kodeeksempler. Notatet skal legges i IT2-mappen.
+5. Bonus: [Aunivers: Eksempel: API-er](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/eksempel-api-er)
+6. Bonus: [Aunivers: Eksempel: Kart og data](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/eksempel-kart-og-data)
+
+#### Tegne grafer (presentere data)
+
+I Python kan vi bruke biblioteket `matplotlib` til å tegne grafer.
+`matplotlib` må installeres med `pip`, slik:
+
+windows:
+```bash
+pip install matplotlib
+```
+
+mac:
+```bash
+pip3 install matplotlib
+```
+
+Eksempel: et enkelt plott  
+
+```python
+import matplotlib.pyplot as plt
+
+x = [0, 1, 2, 3, 4]
+y = [10, 20, 25, 10, 12]
+
+plt.plot(x, y)  # oppretter graf
+plt.show()      # viser graf
+```
+
 #### Innhente data
 
 - Lese data fra fil
@@ -53,11 +90,6 @@ data = respons.json()
 
 > Mye frihet her
 
-#### Presentere data
-
-- Grafer i Python
-- Nettsider (Flask/Svelte(?))
-- Kart
 
 ### Vern mot kjøretidsfeil og logiske feil i programmer
 
