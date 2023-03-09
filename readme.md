@@ -29,7 +29,7 @@ Et repository for IT2 på Sandvika VGS.
 - [Implementering](implementering/readme.md)
   - løsninger med programmering
   - gjenbrukbar kode
-  - innhente, analysere og presentere data
+  - [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)
   - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
 
 
@@ -37,8 +37,8 @@ Et repository for IT2 på Sandvika VGS.
 
 | Uke | Dato   | Emne som gjennomgås på tavle                                | Anbefalt prosjekt              |
 | --- | ------ | ----------------------------------------------------------- | ------------------------------ |
-| 9   | 02.mar | vern mot kjøretidsfeil og logiske feil i programmer         | Smidig webapp                  |
-| 10  | 09.mar | innhente, analysere og presentere data                      | Smidig webapp                  |
+| 9   | 02.mar | [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)         | Smidig webapp                  |
+| 10  | 09.mar | [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)                      | Smidig webapp                  |
 | 11  | 16.mar | representasjon av programflyt og objektorienterte modeller  | Spill med Pygame               |
 | 12  | 23.mar | gjenbrukbar kode og objektorienterte modeller og programmer | Spill med Pygame               |
 | 13  | 30.mar | brukervennlighet i programmer/informasjonssystemer          | Spill med Pygame/Smidig webapp |
