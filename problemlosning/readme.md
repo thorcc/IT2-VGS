@@ -1,8 +1,7 @@
 # Problemløsning
 
-## Innhold
 
-### Metoder, teknikker og verktøy
+## Metoder, teknikker og verktøy
 
 - Systemutvikling
   - Smidig metodikk
@@ -10,11 +9,11 @@
   - Testdrevet utvikling
   - [Aunivers: 2B Systemutvikling - Systemutviklingsmetoder](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2b-systemutvikling/systemutviklingsmetoder)
 
-### Alternative løsninger
+## Alternative løsninger
 
 - Kommer snart..
 
-### Objektorienterte programmer med klasser, arv og objekter
+## Objektorienterte programmer med klasser, arv og objekter
 
 - Klasser og metoder
   - [Aunivers: 2A Klasser og objekter - Klasser](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2a-klasser-og-objekter/klasser)

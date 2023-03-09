@@ -6,21 +6,20 @@
 - [En liste med gratis API-er (https://github.com/public-apis/public-apis)](https://github.com/public-apis/public-apis)
 - Eksempel: En værapp som henter værdata fra [https://api.met.no/](https://api.met.no/) sitt API
 
-## Innhold
   
-### Løsninger med programmering
+## Løsninger med programmering
 
 - Python
 - Javascript(?)
 
-### Gjenbrukbar kode
+## Gjenbrukbar kode
 
 - Dokumentasjon av kode med Docstrings
   - https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings
 - Funksjoner med dokumentasjon
 - Klasser med dokumentasjon
 
-### Innhente, analysere og presentere data
+## Innhente, analysere og presentere data
 
 **Gjøremål:**
 
@@ -32,7 +31,7 @@
 5. Bonus: [Aunivers: Eksempel: API-er](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/eksempel-api-er)
 6. Bonus: [Aunivers: Eksempel: Kart og data](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/eksempel-kart-og-data)
 
-#### Tegne grafer (presentere data)
+### Tegne grafer (presentere data)
 
 I Python kan vi bruke biblioteket `matplotlib` til å tegne grafer.
 `matplotlib` må installeres med `pip`, slik:
@@ -59,7 +58,7 @@ plt.plot(x, y)  # oppretter graf
 plt.show()      # viser graf
 ```
 
-#### Innhente data
+### Innhente data
 
 - Lese data fra fil
 
@@ -82,7 +81,7 @@ respons = requests.get("https://eksempel.no")
 data = respons.json()
 ````
 
-#### Analysere data
+### Analysere data
 
 - Hente ut relevant informasjon fra data
 - Sortere og filtrere data
@@ -91,9 +90,9 @@ data = respons.json()
 > Mye frihet her
 
 
-### Vern mot kjøretidsfeil og logiske feil i programmer
+## Vern mot kjøretidsfeil og logiske feil i programmer
 
-#### Kjøretidsfeil
+### Kjøretidsfeil
 
 - Håndtering av feil med `try` og `except`
 
@@ -123,7 +122,7 @@ fødselsår = 2022 - alder
 print(f"du er født i {fødselsår}")
 ```
 
-#### Logiske feil
+### Logiske feil
 
 - [Testing med `assert`](https://www.w3schools.com/python/ref_keyword_assert.asp)
 
