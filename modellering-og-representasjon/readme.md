@@ -1,10 +1,12 @@
 # Modellering og representasjon
 
-## Prosjektforslag
+## Gjøremål
 
-- Et spill laget i Pygame
-- Flytdiagram som viser kontrollstrukturen i spillet
-- UML-diagram som viser klassene i spillet
+1. Lag et UML-diagram som beskriver klassene i "Hoppespillet", se skisse under
+2. Lag klassene til "Hoppespillet" i Python
+3. Lag "Hoppespillet" med `Pygame`
+4. Tegn et  flytdiagram som viser programflyten i *gameloop*-en til "Hoppespillet".
+5. Lag et notat i en markdown-fil som forklarer hva UML- og flytdiagram er. Bruk eksempler. Notatet skal lastes opp i IT2-mappen på Github.
 
 ## Objektorienterte modeller som beskriver programstruktur
 

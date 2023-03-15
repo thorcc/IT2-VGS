@@ -23,9 +23,9 @@ Et repository for IT2 på Sandvika VGS.
   - alternative løsninger
   - objektorienterte programmer med klasser, arv og objekter
 - [Modellering og representasjon](modellering-og-representasjon/readme.md)
-  - objektorienterte modeller som beskriver programstruktur
-  - representasjon av programflyt med kontrollstrukturer
-  - brukervennlighet i programmer
+  - [objektorienterte modeller som beskriver programstruktur](modellering-og-representasjon/readme.md#objektorienterte-modeller-som-beskriver-programstruktur)
+  - [representasjon av programflyt med kontrollstrukturer](modellering-og-representasjon/readme.md#representasjon-av-programflyt-med-kontrollstrukturer)
+  - [brukervennlighet i programmer](modellering-og-representasjon/readme.md#brukervennlighet-i-programmer)
 - [Implementering](implementering/readme.md)
   - løsninger med programmering
   - gjenbrukbar kode
