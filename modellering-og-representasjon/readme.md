@@ -8,6 +8,8 @@
 4. Tegn et  flytdiagram som viser programflyten i *gameloop*-en til "Hoppespillet".
 5. Lag et notat i en markdown-fil som forklarer hva UML- og flytdiagram er. Bruk eksempler. Notatet skal lastes opp i IT2-mappen på Github.
 
+![](hoppespillet-skisse.png)
+
 ## Objektorienterte modeller som beskriver programstruktur
 
 - UML-diagram
