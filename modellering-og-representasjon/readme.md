@@ -1,5 +1,9 @@
 # Modellering og representasjon
 
+## Verktøy
+
+- [diagrams.net](https://www.diagrams.net/) kan brukes for å tegne diagrammer
+
 ## Gjøremål
 
 1. Lag et UML-diagram som beskriver klassene i "Hoppespillet", se skisse under
