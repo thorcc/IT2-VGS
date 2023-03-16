@@ -2,6 +2,14 @@
 
 Et repository for IT2 på Sandvika VGS.
 
+## Mappeinnlevering
+
+På slutten av skoleåret du levere inn en *mappe* der du viser hva du kan om emnene i faget.
+Mappen skal inneholde:
+
+- et notat for hvert emne, [se mal for notat her (trykk på raw for å se kildekoden)](./notatmal.md).
+- lenker til prosjekter
+
 ## Viktige datoer
 
 | Dato     | Beksrivelse                      |
