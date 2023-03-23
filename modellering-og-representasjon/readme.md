@@ -3,6 +3,8 @@
 ## Verktøy
 
 - [diagrams.net](https://www.diagrams.net/) kan brukes for å tegne diagrammer
+- [Pygame](https://www.pygame.org/docs/)
+  - [Eksempler/guider](../pygame/readme.md)
 
 ## Gjøremål
 
