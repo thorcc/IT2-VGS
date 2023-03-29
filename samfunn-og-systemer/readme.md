@@ -26,7 +26,7 @@ Kommer 13.4
 **Prosjekt:** [Nettsted: https://ai-foodr.netlify.app](https://ai-foodr.netlify.app/) / [Kode: https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
 **Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat  
 **Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
-**Tiltak:** La til en spinnende mikrobølgeovn som vise mens den appen genererer oppskrifter
+**Tiltak:** La til en spinnende mikrobølgeovn som vises mens den appen genererer oppskrifter
 
 #### Tilbakemelding #2
 
