@@ -11,7 +11,7 @@ Kommer 13.4
 
 ## Brukervennlighet i informasjonssystemer
 
-> OBS: Notat om brukervennlighet trenger ikke leveres, bare et notat med tilbakemeldinger.
+> OBS: Notat om brukervennlighet trenger ikke leveres, under tema brukervennlighet skal bare et notat med tilbakemeldinger leveres.
 
 ### Gjøremål
 
