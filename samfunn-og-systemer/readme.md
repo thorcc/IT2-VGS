@@ -11,7 +11,29 @@ Kommer 13.4
 
 ## Brukervennlighet i informasjonssystemer
 
-Kommer snart..
+> OBS: Notat om brukervennlighet trenger ikke leveres, bare et notat med tilbakemeldinger.
+
+### Gjøremål
+
+- Saml inn minst tre tilbakemeldinger fra brukere  (eks: medelever, foreldre, ++) på ett eller flere prosjekter du har jobbet med i løpet av året.
+- Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
+- Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
+
+### Eksempel på tilbakemeldinger
+
+#### Tilbakemelding #1
+
+**Prosjekt:** [https://ai-foodr.netlify.app/](https://ai-foodr.netlify.app/) / [https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
+**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat 
+**Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
+**Tiltak:** La til en spinnende mikrobølgeovn som vise mens den appen genererer oppskrifter
+
+#### Tilbakemelding #2
+
+**Prosjekt:** *Eksempelspill*
+**Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill   
+**Tilbakemelding:** "Spillet er alt for vanskelig"  
+**Tiltak:** Satt ned hastigheten på spillet
 
 ## Vurderingskriterier
 
