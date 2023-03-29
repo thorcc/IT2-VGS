@@ -23,14 +23,14 @@ Kommer 13.4
 
 #### Tilbakemelding #1
 
-**Prosjekt:** [https://ai-foodr.netlify.app/](https://ai-foodr.netlify.app/) / [https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
-**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat 
+**Prosjekt:** [Nettsted: https://ai-foodr.netlify.app](https://ai-foodr.netlify.app/) / [Kode: https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
+**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat  
 **Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
 **Tiltak:** La til en spinnende mikrobølgeovn som vise mens den appen genererer oppskrifter
 
 #### Tilbakemelding #2
 
-**Prosjekt:** *Eksempelspill*
+**Prosjekt:** *Lenke til prosjekt*
 **Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill   
 **Tilbakemelding:** "Spillet er alt for vanskelig"  
 **Tiltak:** Satt ned hastigheten på spillet
