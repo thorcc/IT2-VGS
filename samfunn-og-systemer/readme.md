@@ -3,9 +3,15 @@
 
 ## Etiske dilemma og konsekvenser av bruk av IT
 
+Kommer 20.4
+
 ## Standarder for lagring, utveksling og sikring av data
 
+Kommer 13.4
+
 ## Brukervennlighet i informasjonssystemer
+
+Kommer snart..
 
 ## Vurderingskriterier
 
