@@ -22,21 +22,21 @@ Mappen skal inneholde:
 
 ## Emner
 
-- Samfunn og systemer
-  - etiske dilemma og konsekvenser av bruk av IT
-  - standarder for lagring, utveksling og sikring av data
-  - brukervennlighet i informasjonssystemer
+- [Samfunn og systemer](./samfunn-og-systemer/readme.md)
+  - [etiske dilemma og konsekvenser av bruk av IT](./samfunn-og-systemer/readme.md#etiske-dilemma-og-konsekvenser-av-bruk-av-it)
+  - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer/readme.md#standarder-for-lagring-utveksling-og-sikring-av-data)
+  - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)
 - [Problemløsning](problemlosning/readme.md)
-  - metoder, teknikker og verktøy
-  - alternative løsninger
-  - objektorienterte programmer med klasser, arv og objekter
+  - [metoder, teknikker og verktøy](./problemlosning/readme.md#metoder-teknikker-og-verktøy)
+  - [alternative løsninger](./problemlosning/readme.md#alternative-løsninger)
+  - [objektorienterte programmer med klasser, arv og objekter](./problemlosning/readme.md#objektorienterte-programmer-med-klasser-arv-og-objekter)
 - [Modellering og representasjon](modellering-og-representasjon/readme.md)
   - [objektorienterte modeller som beskriver programstruktur](modellering-og-representasjon/readme.md#objektorienterte-modeller-som-beskriver-programstruktur)
   - [representasjon av programflyt med kontrollstrukturer](modellering-og-representasjon/readme.md#representasjon-av-programflyt-med-kontrollstrukturer)
   - [brukervennlighet i programmer](modellering-og-representasjon/readme.md#brukervennlighet-i-programmer)
 - [Implementering](implementering/readme.md)
-  - løsninger med programmering
-  - gjenbrukbar kode
+  - [løsninger med programmering](implementering/readme.md#løsninger-med-programmering)
+  - [gjenbrukbar kode](implementering/readme.md#gjenbrukbar-kode)
   - [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)
   - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
 
@@ -49,7 +49,7 @@ Mappen skal inneholde:
 | 10  | 09.mar | [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)                              | Smidig webapp                  |
 | 11  | 16.mar | [representasjon av programflyt og objektorienterte modeller](modellering-og-representasjon/readme.md)                                                                            | Spill med Pygame               |
 | 12  | 23.mar | [objektorienterte modeller og programmer](problemlosning/readme.md#objektorienterte-programmer-med-klasser-arv-og-objekter) og [gjenbrukbar kode](implementering/readme.md#gjenbrukbar-kode) + [(Pygame)](pygame/readme.md)                                                                          | Spill med Pygame               |
-| 13  | 30.mar | brukervennlighet i programmer/informasjonssystemer                                                                                    | Spill med Pygame/Smidig webapp |
+| 13  | 30.mar | [brukervennlighet i programmer/informasjonssystemer](samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)                                                                                    | Spill med Pygame/Smidig webapp |
 | 14  | 06.apr | påske                                                                                                                                 |                                |
 | 15  | 13.apr | standarder for lagring, utveksling og sikring av data                                                                                 | Smidig webapp                  |
 | 16  | 20.apr | etiske dilemma og konsekvenser av bruk av IT                                                                                          | En tekst?                      |
