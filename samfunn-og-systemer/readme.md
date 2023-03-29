@@ -19,7 +19,7 @@ Kommer 13.4
 - Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
 
-### Eksempel på tilbakemeldinger
+### Eksempler på tilbakemeldinger
 
 #### Tilbakemelding #1
 
