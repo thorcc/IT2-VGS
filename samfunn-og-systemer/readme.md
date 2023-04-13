@@ -10,7 +10,7 @@ Kommer 20.4
 ### Gjøremål
 
 - Gjør oppgavene om datasett
-  - [datasett.zip](./datasett.zip)
+  - [./datasett.zip](https://github.com/thorcc/IT2-VGS/blob/master/samfunn-og-systemer/datasett.zip?raw=true)
 - Gjør oppgavene om API-er
   - kommer..
 - Lag et notat som forklarer:
