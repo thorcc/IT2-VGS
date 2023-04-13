@@ -9,6 +9,10 @@ Kommer 20.4
 
 ### Gjøremål
 
+- Gjør oppgavene om datasett
+  - [datasett.zip](./datasett.zip)
+- Gjør oppgavene om API-er
+  - kommer..
 - Lag et notat som forklarer:
   - hva data er
   - hvordan data lagres i datamaskiner
