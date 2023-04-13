@@ -7,7 +7,20 @@ Kommer 20.4
 
 ## Standarder for lagring, utveksling og sikring av data
 
-Kommer 13.4
+### Gjøremål
+
+- Lag et notat som forklarer:
+  - hva data er
+  - hvordan data lagres i datamaskiner
+  - hvordan data utveksles
+  - hvordan data sikres
+
+### Relevante ressurser
+
+- [Aunivers IT2: 3. Databehandling](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling)
+- [kaggle.com/datasets (en samling med datasett)](https://www.kaggle.com/datasets)
+- [publicapis.dev (en oppdatert liste med offentlige API-er)](https://publicapis.dev/)
+- [SSBs API-er](https://www.ssb.no/api)
 
 ## Brukervennlighet i informasjonssystemer
 
@@ -30,7 +43,7 @@ Kommer 13.4
 
 #### Tilbakemelding #2
 
-**Prosjekt:** *Lenke til prosjekt*
+**Prosjekt:** *Lenke til prosjekt*  
 **Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill   
 **Tilbakemelding:** "Spillet er alt for vanskelig"  
 **Tiltak:** Satt ned hastigheten på spillet
