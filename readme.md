@@ -16,8 +16,9 @@ Mappen skal inneholde:
 | -------- | -------------------------------- |
 | 30. mars | Mappeinnlevering - første utkast |
 | 4. mai   | Tentamen                         |
-| 11. mai  | Mappeinnlevering - ferdig mappe  |
 | 25. mai  | Skriftlig eksamen                |
+| 1. juni  | Mappeinnlevering - ferdig mappe  |
+
 
 
 ## Emner
@@ -58,8 +59,8 @@ Mappen skal inneholde:
 | 19  | 11.mai | eksamenstrening                                                                                                                       |                                |
 | 20  | 18.mai | eksamenstrening                                                                                                                       |                                |
 | 21  | 25.mai | Kristi himmelfart                                                                                                                     |                                |
-| 22  | 01.jun | arbeid med mappe                                                                                                                      |                                |
-| 23  | 08.jun | mappeinnlevering                                                                                                                      |                                |
+| 22  | 01.jun | arbeid med mappe - innlevering                                                                                                                      |                                |
+| 23  | 08.jun | muntlig?                                                                                                                      |                                |
 | 24  | 15.jun | IT-avslutning                                                                                                                         |                                |
 | 25  | 22.jun | avslutning VG3                                                                                                                        |                                |
 
