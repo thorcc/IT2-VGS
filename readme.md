@@ -4,23 +4,23 @@ Et repository for IT2 på Sandvika VGS.
 
 ## Mappeinnlevering
 
-På slutten av skoleåret du levere inn en *mappe* der du viser hva du kan om emnene i faget.
+På slutten av skoleåret du levere inn en _mappe_ der du viser hva du kan om emnene i faget.
 
 Ting som må gjøres før innlevering av mappen er merket med TODO.
 For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.
 Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
 DONE Les om TODOs  
-TODO Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`
+TODO Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`  
+TODO Avtal tidspunkt for presentasjon innen 26. april
 
 ## Viktige datoer
 
-| Dato     | Beksrivelse                      |
-| -------- | -------------------------------- |
-| 30. mars | Mappeinnlevering - første utkast |
-| 4. mai   | Tentamen                         |
-| 25. mai  | Skriftlig eksamen                |
-| 1. juni  | Mappeinnlevering - ferdig mappe  |
+| Dato              | Beksrivelse                          |
+| ----------------- | ------------------------------------ |
+| 23. apr / 25. apr | Tentamen                             |
+| 26. apr           | Dato for presentasjon må være avtalt |
+| 10. mai           | Mappeinnlevering                     |
 
 ## Emner
 

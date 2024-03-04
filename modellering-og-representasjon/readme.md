@@ -22,7 +22,6 @@ TODO Lim inn lenke til besvarelser på github
 
 - Ha en presentasjon der du vurderer brukervennlighet i et spill/applikasjon og foreslår hensiktsmessige forbedringer
 
-TODO Avtal tidspunkt for presentasjon. OBS! Presentasjonen må holdes minst to uker før mappeinnlevering  
 TODO Hold presentasjon der du presenterer ett eller flere prosjekter
 
 ## Vurderingskriterier
