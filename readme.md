@@ -5,10 +5,13 @@ Et repository for IT2 på Sandvika VGS.
 ## Mappeinnlevering
 
 På slutten av skoleåret du levere inn en *mappe* der du viser hva du kan om emnene i faget.
-Mappen skal inneholde:
 
-- et notat for hvert emne, [se mal for notat her (trykk på raw for å se kildekoden)](./notatmal.md).
-- lenker til prosjekter
+Ting som må gjøres før innlevering av mappen er merket med TODO.
+For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.
+Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
+
+DONE Les om TODOs  
+TODO Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`
 
 ## Viktige datoer
 
@@ -19,14 +22,8 @@ Mappen skal inneholde:
 | 25. mai  | Skriftlig eksamen                |
 | 1. juni  | Mappeinnlevering - ferdig mappe  |
 
-
-
 ## Emner
 
-- [Samfunn og systemer](./samfunn-og-systemer/readme.md)
-  - [etiske dilemma og konsekvenser av bruk av IT](./samfunn-og-systemer/readme.md#etiske-dilemma-og-konsekvenser-av-bruk-av-it)
-  - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer/readme.md#standarder-for-lagring-utveksling-og-sikring-av-data)
-  - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)
 - [Problemløsning](problemlosning/readme.md)
   - [metoder, teknikker og verktøy](./problemlosning/readme.md#metoder-teknikker-og-verktøy)
   - [alternative løsninger](./problemlosning/readme.md#alternative-løsninger)
@@ -40,29 +37,10 @@ Mappen skal inneholde:
   - [gjenbrukbar kode](implementering/readme.md#gjenbrukbar-kode)
   - [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)
   - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
-
-
-## Plan
-
-| Uke | Dato   | Emne som gjennomgås på tavle                                                                                                          | Anbefalt prosjekt              |
-| --- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 9   | 02.mar | [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer) | Smidig webapp                  |
-| 10  | 09.mar | [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)                              | Smidig webapp                  |
-| 11  | 16.mar | [representasjon av programflyt og objektorienterte modeller](modellering-og-representasjon/readme.md)                                                                            | Spill med Pygame               |
-| 12  | 23.mar | [objektorienterte modeller og programmer](problemlosning/readme.md#objektorienterte-programmer-med-klasser-arv-og-objekter) og [gjenbrukbar kode](implementering/readme.md#gjenbrukbar-kode) + [(Pygame)](pygame/readme.md)                                                                          | Spill med Pygame               |
-| 13  | 30.mar | [brukervennlighet i programmer/informasjonssystemer](samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)                                                                                    | Spill med Pygame/Smidig webapp |
-| 14  | 06.apr | påske                                                                                                                                 |                                |
-| 15  | 13.apr | [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer/readme.md#standarder-for-lagring-utveksling-og-sikring-av-data)                                                                                 | Smidig webapp                  |
-| 16  | 20.apr | etiske dilemma og konsekvenser av bruk av IT                                                                                          | En tekst?                      |
-| 17  | 27.apr | tentamenstrening                                                                                                                      |                                |
-| 18  | 04.mai | tentamen                                                                                                                              |                                |
-| 19  | 11.mai | eksamenstrening                                                                                                                       |                                |
-| 20  | 18.mai | eksamenstrening                                                                                                                       |                                |
-| 21  | 25.mai | Kristi himmelfart                                                                                                                     |                                |
-| 22  | 01.jun | arbeid med mappe - innlevering                                                                                                                      |                                |
-| 23  | 08.jun | muntlig?                                                                                                                      |                                |
-| 24  | 15.jun | IT-avslutning                                                                                                                         |                                |
-| 25  | 22.jun | avslutning VG3                                                                                                                        |                                |
+- [Samfunn og systemer](./samfunn-og-systemer/readme.md)
+  - [etiske dilemma og konsekvenser av bruk av IT](./samfunn-og-systemer/readme.md#etiske-dilemma-og-konsekvenser-av-bruk-av-it)
+  - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer/readme.md#standarder-for-lagring-utveksling-og-sikring-av-data)
+  - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)
 
 ## Vurderingskriterier
 
@@ -82,5 +60,3 @@ Mappen skal inneholde:
 |                                   | bruker hensiktsmessig gjenbrukbar kode                                                                                           | bruker og tilpasser hensiktsmessig gjenbrukbar kode                                                                                | bruker, tilpasser og utvikler hensiktsmessig gjenbrukbar kode                                                         |
 |                                   | innhenter datasett og presenterer enkle data fra disse med programmering                                                         | bearbeider datasett, gjør enkle analyser av dataene og presenterer disse med programmering                                         | gjør sammensatte analyser av datasett og presenterer disse med programmering                                          |
 |                                   | implementerer kode uten syntaksfeil                                                                                              | ivaretar vern mot kjøretidsfeil og logiske feil i enkle og sammensatte programmer                                                  | ivaretar vern mot kjøretidsfeil og logiske feil i avanserte programmer                                                |
-
-

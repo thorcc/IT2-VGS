@@ -1,40 +1,32 @@
 # Samfunn og systemer
 
-
 ## Etiske dilemma og konsekvenser av bruk av IT
 
-Kommer 20.4
+**Gjøremål:**
+
+- Oppgave om etikk og konsekvenser ved bruk av IT kommer i uke 12.
+
+TODO Lever oppgave på Teams
 
 ## Standarder for lagring, utveksling og sikring av data
 
-### Gjøremål
+**Gjøremål:**
 
-- Gjør oppgavene om datasett
-  - [./datasett.zip](https://github.com/thorcc/IT2-VGS/blob/master/samfunn-og-systemer/datasett.zip?raw=true)
-- Gjør oppgavene om API-er
-  - kommer..
-- Lag et notat som forklarer:
-  - hva data er
-  - hvordan data lagres i datamaskiner
-  - hvordan data utveksles
-  - hvordan data sikres
+- Gjør oppgave [2.1  - 2.17](https://it2.thorcc.no/databehandling-og-algoritmer/oversikt) på [it2.thorcc.no](https://it2.thorcc.no).
 
-### Relevante ressurser
-
-- [Aunivers IT2: 3. Databehandling](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling)
-- [kaggle.com/datasets (en samling med datasett)](https://www.kaggle.com/datasets)
-- [publicapis.dev (en oppdatert liste med offentlige API-er)](https://publicapis.dev/)
-- [SSBs API-er](https://www.ssb.no/api)
+TODO Lim inn lenke til oppgavebesvarelser på github.
 
 ## Brukervennlighet i informasjonssystemer
 
-> OBS: Notat om brukervennlighet trenger ikke leveres, under tema brukervennlighet skal bare et notat med tilbakemeldinger leveres.
-
-### Gjøremål
+**Gjøremål:**
 
 - Saml inn minst tre tilbakemeldinger fra brukere  (eks: medelever, foreldre, ++) på ett eller flere prosjekter du har jobbet med i løpet av året.
 - Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
+
+### Mine tilbakemeldinger
+
+TODO Skriv minst tre tilbakemeldinger her
 
 ### Eksempler på tilbakemeldinger
 

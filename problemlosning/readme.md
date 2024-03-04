@@ -1,46 +1,38 @@
 # Problemløsning
 
-
 ## Metoder, teknikker og verktøy
 
-- Systemutvikling
-  - Smidig metodikk
-  - Fossefallsmetoden
-  - Testdrevet utvikling
-  - [Aunivers: 2B Systemutvikling - Systemutviklingsmetoder](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2b-systemutvikling/systemutviklingsmetoder)
+**Gjøremål:**
+
+- Lag en applikasjon eller et spill der du bruker relevante teknikker og verktøy.
+  - Det kan for eksempel være
+    - et spill laget med pygame-biblioteket
+    - en interaktiv app i terminalen
+    - en web-applikasjon laget med Flask
+
+TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 ## Alternative løsninger
 
-- Kommer snart..
+**Gjøremål:**
+
+- Ha en presentasjon der du begrunner valg som er gjort i et prosjekt og vurderer alternative løsninger
+
+TODO Avtal tidspunkt for presentasjon. OBS! Presentasjonen må holdes minst to uker før mappeinnlevering  
+TODO Hold presentasjon der du presnterer ett eller flere prosjekter
 
 ## Objektorienterte programmer med klasser, arv og objekter
 
-### Gjøremål:
+**Gjøremål:**
 
-1. Tegn UML-diagram av Hoppespillet, der spiller og hindere arver fra en figur-klasse
-2. Opprett klassene i Python, du trenger ikke implementere metodene enda
-3. Dokumenter klassene med [docstrings (/impementering/readme.md#gjenbrukbar-kode)](../implementering/readme.md#gjenbrukbar-kode)
-4. Kopier [Pygame-eksemplene (/pygame/readme.md)](../pygame/readme.md) inn i egne .py-filer og studer koden
-5. Lag hoppespillet
-6. Lag ditt eget spill med Pygame
-   - Du velger selv om du vil starte helt på nytt eller fortsette på Hoppespillet.
+- Lag et større objektorientert system som inneholder klasser, arv og objekter
 
-![](../modellering-og-representasjon/hoppespillet-skisse.png)
-
-### Ressurser
-
-- Klasser og metoder
-  - [Aunivers: 2A Klasser og objekter - Klasser](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2a-klasser-og-objekter/klasser)
-  - [Aunivers: 2A Klasser og objekter - Metoder](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2a-klasser-og-objekter/metoder)
-- Arv
-  - [Aunivers: 2A Klasser og objekter - Arv](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2a-klasser-og-objekter/arv)
-- Bruken av objekter i sammensatte programmer
-  - [Aunivers: 2A Klasser og objekter - Organisere flere objekter](https://aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/2-objektorientert-programmering/2a-klasser-og-objekter/organisere-flere-objekter)
+TODO Lim inn lenke til github-repository (side på github) med relevant kode
 
 ## Vurderingskriterier
 
 | Kategori           | Lav kompetanse (2)                                                                                                               | God kompetanse (4)                                                                                                            | Utmerket kompetanse (6)                                                                                               |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Problemløsning** | forstår og bruke enkle metoder, teknikker og verktøy                                                                             | forstår og bruke sammensatte metoder, teknikker og verktøy                                                                    | hensiktsmessig anvende avanserte metoder, teknikker og verktøy                                                        |
+| **Problemløsning** | forstår og bruker enkle metoder, teknikker og verktøy                                                                            | forstår og bruke sammensatte metoder, teknikker og verktøy                                                                    | hensiktsmessig anvender avanserte metoder, teknikker og verktøy                                                       |
 |                    | beskriver alternative løsninger                                                                                                  | forklarer alternative løsninger og tilpasser dem for å oppnå forbedringer                                                     | grundig vurderer alternative løsninger og gjøre hensiktsmessige valg                                                  |
 |                    | designer og utformer objektorienterte programmer med klasser med hensiktsmessige egenskaper og objekter basert på disse klassene | designer og utformer objektorienterte programmer med klasser med hensiktsmessige metoder og objekter basert på disse klassene | designer og utformer objektorienterte programmer med klasser med hensiktsmessig arv og objekter basert på de klassene |
