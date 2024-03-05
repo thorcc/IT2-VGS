@@ -7,7 +7,7 @@ Et repository for IT2 på Sandvika VGS.
 På slutten av skoleåret du levere inn en _mappe_ der du viser hva du kan om emnene i faget.
 
 Ting som må gjøres før innlevering av mappen er merket med TODO.  
-For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.  
+For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.
 
 Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
@@ -20,7 +20,7 @@ TODO Avtal tidspunkt for presentasjon innen 26. april
 | Dato              | Beskrivelse                          |
 | ----------------- | ------------------------------------ |
 | 23. apr / 25. apr | Tentamen                             |
-| 26. apr           | Dato for presentasjon må være avtalt |
+| 26. apr           | Frist for å avtale presentasjonsdato |
 | 10. mai           | Mappeinnlevering                     |
 
 ## Emner
