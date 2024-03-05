@@ -6,8 +6,9 @@ Et repository for IT2 på Sandvika VGS.
 
 På slutten av skoleåret du levere inn en _mappe_ der du viser hva du kan om emnene i faget.
 
-Ting som må gjøres før innlevering av mappen er merket med TODO.
-For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.
+Ting som må gjøres før innlevering av mappen er merket med TODO.  
+For å finne TODOs i VS Code trykker du på `CMD` + `SHIFT` + `f` / `CTRL` + `SHIFT` + `f` og skriver `TODO`.  
+
 Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
 DONE Les om TODOs  
@@ -16,7 +17,7 @@ TODO Avtal tidspunkt for presentasjon innen 26. april
 
 ## Viktige datoer
 
-| Dato              | Beksrivelse                          |
+| Dato              | Beskrivelse                          |
 | ----------------- | ------------------------------------ |
 | 23. apr / 25. apr | Tentamen                             |
 | 26. apr           | Dato for presentasjon må være avtalt |
@@ -24,23 +25,23 @@ TODO Avtal tidspunkt for presentasjon innen 26. april
 
 ## Emner
 
-- [Problemløsning](problemlosning/readme.md)
-  - [metoder, teknikker og verktøy](./problemlosning/readme.md#metoder-teknikker-og-verktøy)
-  - [alternative løsninger](./problemlosning/readme.md#alternative-løsninger)
-  - [objektorienterte programmer med klasser, arv og objekter](./problemlosning/readme.md#objektorienterte-programmer-med-klasser-arv-og-objekter)
-- [Modellering og representasjon](modellering-og-representasjon/readme.md)
-  - [objektorienterte modeller som beskriver programstruktur](modellering-og-representasjon/readme.md#objektorienterte-modeller-som-beskriver-programstruktur)
-  - [representasjon av programflyt med kontrollstrukturer](modellering-og-representasjon/readme.md#representasjon-av-programflyt-med-kontrollstrukturer)
-  - [brukervennlighet i programmer](modellering-og-representasjon/readme.md#brukervennlighet-i-programmer)
-- [Implementering](implementering/readme.md)
-  - [løsninger med programmering](implementering/readme.md#løsninger-med-programmering)
-  - [gjenbrukbar kode](implementering/readme.md#gjenbrukbar-kode)
-  - [innhente, analysere og presentere data](implementering/readme.md#innhente-analysere-og-presentere-data)
-  - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering/readme.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
-- [Samfunn og systemer](./samfunn-og-systemer/readme.md)
-  - [etiske dilemma og konsekvenser av bruk av IT](./samfunn-og-systemer/readme.md#etiske-dilemma-og-konsekvenser-av-bruk-av-it)
-  - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer/readme.md#standarder-for-lagring-utveksling-og-sikring-av-data)
-  - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer/readme.md#brukervennlighet-i-informasjonssystemer)
+- [Problemløsning](problemlosning.md)
+  - [metoder, teknikker og verktøy](./problemlosning.md#metoder-teknikker-og-verktøy)
+  - [alternative løsninger](./problemlosning.md#alternative-løsninger)
+  - [objektorienterte programmer med klasser, arv og objekter](./problemlosning.md#objektorienterte-programmer-med-klasser-arv-og-objekter)
+- [Modellering og representasjon](modellering-og-representasjon.md)
+  - [objektorienterte modeller som beskriver programstruktur](modellering-og-representasjon.md#objektorienterte-modeller-som-beskriver-programstruktur)
+  - [representasjon av programflyt med kontrollstrukturer](modellering-og-representasjon.md#representasjon-av-programflyt-med-kontrollstrukturer)
+  - [brukervennlighet i programmer](modellering-og-representasjon.md#brukervennlighet-i-programmer)
+- [Implementering](implementering.md)
+  - [løsninger med programmering](implementering.md#løsninger-med-programmering)
+  - [gjenbrukbar kode](implementering.md#gjenbrukbar-kode)
+  - [innhente, analysere og presentere data](implementering.md#innhente-analysere-og-presentere-data)
+  - [vern mot kjøretidsfeil og logiske feil i programmer](./implementering.md#vern-mot-kjøretidsfeil-og-logiske-feil-i-programmer)
+- [Samfunn og systemer](./samfunn-og-systemer.md)
+  - [etiske dilemma og konsekvenser av bruk av IT](./samfunn-og-systemer.md#etiske-dilemma-og-konsekvenser-av-bruk-av-it)
+  - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer.md#standarder-for-lagring-utveksling-og-sikring-av-data)
+  - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer.md#brukervennlighet-i-informasjonssystemer)
 
 ## Vurderingskriterier
 
