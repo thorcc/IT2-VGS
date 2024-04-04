@@ -27,11 +27,3 @@ TODO Hold presentasjon der du presnterer ett eller flere prosjekter
 - Lag et større objektorientert system som inneholder klasser, arv og objekter
 
 TODO Lim inn lenke til github-repository (side på github) med relevant kode
-
-## Vurderingskriterier
-
-| Kategori           | Lav kompetanse (2)                                                                                                               | God kompetanse (4)                                                                                                            | Utmerket kompetanse (6)                                                                                               |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Problemløsning** | forstår og bruker enkle metoder, teknikker og verktøy                                                                            | forstår og bruke sammensatte metoder, teknikker og verktøy                                                                    | hensiktsmessig anvender avanserte metoder, teknikker og verktøy                                                       |
-|                    | beskriver alternative løsninger                                                                                                  | forklarer alternative løsninger og tilpasser dem for å oppnå forbedringer                                                     | grundig vurderer alternative løsninger og gjøre hensiktsmessige valg                                                  |
-|                    | designer og utformer objektorienterte programmer med klasser med hensiktsmessige egenskaper og objekter basert på disse klassene | designer og utformer objektorienterte programmer med klasser med hensiktsmessige metoder og objekter basert på disse klassene | designer og utformer objektorienterte programmer med klasser med hensiktsmessig arv og objekter basert på de klassene |

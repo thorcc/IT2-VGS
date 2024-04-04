@@ -34,16 +34,6 @@ TODO Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
 
 **Gjøremål**
 
-- Gjør oppgave x.xx
-  - Kommer i uke 11
+- Gjør oppgave 3.13 - 3.16
 
 TODO Lim inn lenker til besvarelse av oppgaver
-
-## Vurderingskriterier
-
-| Kategori           | Lav kompetanse (2)                                                       | God kompetanse (4)                                                                         | Utmerket kompetanse (6)                                                      |
-| ------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| **Implementering** | implementerer enkle løsninger med programmering                          | implementerer sammensatte løsninger med programmering                                      | implementerer avanserte løsninger med programmering                          |
-|                    | bruker hensiktsmessig gjenbrukbar kode                                   | bruker og tilpasser hensiktsmessig gjenbrukbar kode                                        | bruker, tilpasser og utvikler hensiktsmessig gjenbrukbar kode                |
-|                    | innhenter datasett og presenterer enkle data fra disse med programmering | bearbeider datasett, gjør enkle analyser av dataene og presenterer disse med programmering | gjør sammensatte analyser av datasett og presenterer disse med programmering |
-|                    | implementerer kode uten syntaksfeil                                      | ivaretar vern mot kjøretidsfeil og logiske feil i enkle og sammensatte programmer          | ivaretar vern mot kjøretidsfeil og logiske feil i avanserte programmer       |
