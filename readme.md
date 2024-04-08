@@ -15,6 +15,8 @@ DONE Les om TODOs
 TODO Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`  
 TODO Avtal tidspunkt for presentasjon innen 26. april
 
+> Hele mappen kan også leveres som én fil: [mappe.md](./mappe.md)
+
 ## Viktige datoer
 
 | Dato              | Beskrivelse                          |

@@ -12,7 +12,7 @@ TODO Lim inn lenke til UML-diagram
 
 **Gjøremål:**
 
-- Gjør oppgave [2.5  og 2.6](https://it2.thorcc.no/databehandling-og-algoritmer/flytdiagram#oppgaver) på [it2.thorcc.no](https://it2.thorcc.no).
+- Gjør oppgave [2.5  og 2.6 (flytdiagram)](https://it2.thorcc.no/databehandling-og-algoritmer/)
 
 TODO Lim inn lenke til besvarelser på github
 

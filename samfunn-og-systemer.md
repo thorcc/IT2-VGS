@@ -12,7 +12,7 @@ TODO Lever oppgave på Teams
 
 **Gjøremål:**
 
-- Gjør oppgave [2.1  - 2.17](https://it2.thorcc.no/databehandling-og-algoritmer/oversikt) på [it2.thorcc.no](https://it2.thorcc.no).
+- Gjør oppgave [2.15 - 2.17 (filhåndtering)](https://it2.thorcc.no/databehandling-og-algoritmer/filhandtering#oppgaver)
 
 TODO Lim inn lenke til oppgavebesvarelser på github.
 
@@ -23,8 +23,6 @@ TODO Lim inn lenke til oppgavebesvarelser på github.
 - Saml inn minst tre tilbakemeldinger fra brukere  (eks: medelever, foreldre, ++) på ett eller flere prosjekter du har jobbet med i løpet av året.
 - Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
-
-### Mine tilbakemeldinger
 
 TODO Skriv minst tre tilbakemeldinger her
 
@@ -39,7 +37,7 @@ TODO Skriv minst tre tilbakemeldinger her
 
 #### Tilbakemelding #2
 
-**Prosjekt:** *Lenke til prosjekt*  
+**Prosjekt:** _Lenke til prosjekt_
 **Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill  
 **Tilbakemelding:** "Spillet er alt for vanskelig"  
 **Tiltak:** Satt ned hastigheten på spillet
